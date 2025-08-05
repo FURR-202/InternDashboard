@@ -1,0 +1,25 @@
+{
+  "name": "interndashboard",
+  "version": "1.0.0",
+  "description": "\"This is a project that gives information about the intern\"",
+  "license": "ISC",
+  "author": "\"Ritika\"",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "engines": {
+  "node": "18.x"
+}
+}

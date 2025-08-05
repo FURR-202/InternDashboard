@@ -1,0 +1,15 @@
+[{
+    "id": 1,
+    "name": "Ritika",
+    "referalCode" : 3431,
+    "donationRaised": 1000,
+    "rewards": 100
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "referralCode": "janesmith2025",
+    "donationsRaised": 0,
+    "rewards": 200
+  }
+]
